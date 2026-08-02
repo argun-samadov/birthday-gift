@@ -8,6 +8,7 @@ Built with **HTML, CSS, and JavaScript**, this project is designed to turn a bir
 ## 🚀 Live Demo
 
 👉 **Click here to visit the website**
+https://argun-samadov.github.io/birthday-gift/
 
 ---
 
